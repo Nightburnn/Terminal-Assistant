@@ -21,14 +21,14 @@ Ensure you have the following installed:
 ### Automatic Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/Nightburnn/Terminal-Assistant
    cd terminal-assistant
-
+```
 2.Run the installation script:
-   ```bash
+```bash
    bash install_dependencies.sh
- ```
+```
 3. Add the assistant to your .bashrc:
 ```bash
   echo 'source ~/terminal-assistant/.bashrc' >> ~/.bashrc
