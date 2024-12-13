@@ -53,7 +53,32 @@ Usage
 
 After installation, simply type terminal_assistant in your terminal to launch the program.
 
+## Project Structure
+
+Here’s how the repository is organized:
+```bash
+terminal-assistant/
+├── .bashrc                  # Contains the Terminal Assistant function
+├── install_dependencies.sh  # Automates dependency installation
+├── README.md                # Documentation
+├── LICENSE                  # License file
+```
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+```bash
+### Why Include the Project Structure?
+
+- **For Developers**: Helps understand the file organization at a glance.
+- **For New Contributors**: Gives them an overview of where to find or add specific files.
+
+You can add the **Project Structure** anywhere in the README, but it's commonly placed:
+- **Before "Contributing"**: Ideal for technical documentation.
+- **After "Usage"**: If the structure is straightforward and easy to navigate.
+
+```
