@@ -41,7 +41,7 @@ Ensure you have the following installed:
 
 ## Manual Installation
 
-    Copy the .bashrc content from this repository to your local .bashrc:
+Copy the .bashrc content from this repository to your local .bashrc:
 ```bash
 cp ./bashrc ~/.bashrc
 ```
