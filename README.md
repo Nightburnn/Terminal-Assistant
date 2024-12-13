@@ -34,5 +34,26 @@ Ensure you have the following installed:
   echo 'source ~/terminal-assistant/.bashrc' >> ~/.bashrc
   source ~/.bashrc
 ```
-4. 
+4. Start using the assistant:
+```bash
+   terminal_assistant
+```
+
+## Manual Installation
+
+    Copy the .bashrc content from this repository to your local .bashrc:
+
+cp ./bashrc ~/.bashrc
+
+Reload the .bashrc file:
+
+    source ~/.bashrc
+
+Usage
+
+After installation, simply type terminal_assistant in your terminal to launch the program.
+
+## Contributing
+
+Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
 
