@@ -42,13 +42,13 @@ Ensure you have the following installed:
 ## Manual Installation
 
     Copy the .bashrc content from this repository to your local .bashrc:
-
+```bash
 cp ./bashrc ~/.bashrc
-
+```
 Reload the .bashrc file:
-
+```bash
     source ~/.bashrc
-
+```
 Usage
 
 After installation, simply type terminal_assistant in your terminal to launch the program.
