@@ -26,9 +26,13 @@ Ensure you have the following installed:
    cd terminal-assistant
 
 2.Run the installation script:
+   ```bash
    bash install_dependencies.sh
+ ```
 3. Add the assistant to your .bashrc:
+```bash
   echo 'source ~/terminal-assistant/.bashrc' >> ~/.bashrc
   source ~/.bashrc
-
+```
+4. 
 
