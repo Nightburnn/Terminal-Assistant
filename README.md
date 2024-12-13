@@ -39,7 +39,7 @@ Ensure you have the following installed:
    terminal_assistant
 ```
 
-## Manual Installation
+### Manual Installation
 
 Copy the .bashrc content from this repository to your local .bashrc:
 ```bash
@@ -49,7 +49,7 @@ Reload the .bashrc file:
 ```bash
     source ~/.bashrc
 ```
-Usage
+## Usage
 
 After installation, simply type terminal_assistant in your terminal to launch the program.
 
