@@ -24,7 +24,7 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/Nightburnn/Terminal-Assistant
    cd terminal-assistant
-
+  ```
 2.Run the installation script:
    ```bash
    bash install_dependencies.sh
