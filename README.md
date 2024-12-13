@@ -47,7 +47,7 @@ cp ./bashrc ~/.bashrc
 ```
 Reload the .bashrc file:
 ```bash
-    source ~/.bashrc
+source ~/.bashrc
 ```
 ## Usage
 
