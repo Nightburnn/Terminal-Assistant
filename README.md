@@ -24,3 +24,11 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/Nightburnn/Terminal-Assistant
    cd terminal-assistant
+
+2.Run the installation script:
+   bash install_dependencies.sh
+3. Add the assistant to your .bashrc:
+  echo 'source ~/terminal-assistant/.bashrc' >> ~/.bashrc
+  source ~/.bashrc
+
+
